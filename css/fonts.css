@@ -1,0 +1,24 @@
+@font-face{
+    font-family: 'SegoeUIRegular';
+    src: url('../fonts/SegoeUIRegular/SegoeUIRegular.eot') format('eot'),
+         url('../fonts/SegoeUIRegular/SegoeUIRegular.ttf') format('truetype'),
+         url('../fonts/SegoeUIRegular/SegoeUIRegular.woff') format('woff');   
+}
+@font-face{
+    font-family: 'SegoeUILight';
+    src: url('../fonts/SegoeUILight/SegoeUILight.eot') format('eot'),
+         url('../fonts/SegoeUILight/SegoeUILight.ttf') format('truetype'),
+         url('../fonts/SegoeUILight/SegoeUILight.woff') format('woff');   
+}
+@font-face{
+    font-family: 'SegoeUIBold';
+    src: url('../fonts/SegoeUIBold/SegoeUIBold.eot') format('eot'),
+         url('../fonts/SegoeUIBold/SegoeUIBold.ttf') format('truetype'),
+         url('../fonts/SegoeUIBold/SegoeUIBold.woff') format('woff');   
+}
+@font-face{
+    font-family: 'SegoeUISemiBold';
+    src: url('../fonts/SegoeUISemiBold/SegoeUISemiBold.eot') format('eot'),
+         url('../fonts/SegoeUISemiBold/SegoeUISemiBold.ttf') format('truetype'),
+         url('../fonts/SegoeUISemiBold/SegoeUISemiBold.woff') format('woff');   
+}
